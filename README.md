@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there, I'm Kevin Casas
+# 👋 Hi there, I'm Kevin!
 
 Software Engineer with 6+ years of experience building full-stack solutions across financial services, payment processing, and banking systems. Currently based in Scottsdale, Arizona.
 
