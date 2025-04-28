@@ -67,4 +67,4 @@ As a Software Engineer II at MiCamp Solutions in Scottsdale, I'm leading develop
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-When I'm not coding, you can find me exploring the Arizona desert, experimenting with AI models, or enjoying a good cup of coffee while solving algorithm puzzles.
+When I'm not coding, you can find me exploring the Arizona desert.
