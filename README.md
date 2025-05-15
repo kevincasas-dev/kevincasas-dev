@@ -47,7 +47,6 @@ As a Software Engineer II at MiCamp Solutions in Scottsdale, I'm leading develop
 ## 📊 Professional Journey
 
 - **MiCamp Solutions** - Software Engineer II (Current)
-- **Alcock & Associates** - Information System Analyst/Programmer
 - **MiCamp Solutions** - Software Engineer
 - **Tata Consultancy Services** - Intermediate Developer
 - **Teleperformance** - Developer I
